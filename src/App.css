@@ -8,6 +8,22 @@
   pointer-events: none;
 }
 
+.calculator{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.calculator button {
+  margin-top: 20px;
+}
+
+.calculator input {
+  margin-bottom: 10px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
