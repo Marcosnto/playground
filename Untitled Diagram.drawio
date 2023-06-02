@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T13:34:39.288Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.6" etag="4vt8mJwcBJmcZ9rm_2cz" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T17:43:20.476Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="wpfiNhoj7jCMfV4ASFcK" version="21.3.6" type="github">
   <diagram name="Page-1" id="DVzhSFckID4SJNYEZx_0">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" width="540" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="8iiYbNNlDjW5F7_LhWJE-1" target="8iiYbNNlDjW5F7_LhWJE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-10" value="Auto Register" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="8iiYbNNlDjW5F7_LhWJE-3">
+          <mxGeometry x="-0.2167" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="8iiYbNNlDjW5F7_LhWJE-2" target="8iiYbNNlDjW5F7_LhWJE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-9" value="Create Pending Register" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="8iiYbNNlDjW5F7_LhWJE-8">
+          <mxGeometry x="-0.1385" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-2" value="Register page" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-7" value="&lt;div&gt;Wordpress&lt;/div&gt;&lt;div&gt;API&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8iiYbNNlDjW5F7_LhWJE-35" target="8iiYbNNlDjW5F7_LhWJE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-35" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="510" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8iiYbNNlDjW5F7_LhWJE-36" target="8iiYbNNlDjW5F7_LhWJE-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-40" value="Get users list" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8iiYbNNlDjW5F7_LhWJE-39">
+          <mxGeometry x="-0.1184" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Admin Page&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8iiYbNNlDjW5F7_LhWJE-38" target="8iiYbNNlDjW5F7_LhWJE-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8iiYbNNlDjW5F7_LhWJE-38" value="&lt;div&gt;Wordpress&lt;/div&gt;&lt;div&gt;Api&lt;br&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="650" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
